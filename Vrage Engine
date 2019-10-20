@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Vrage</title>
+   <link rel="stylesheet" type="text/css" href="New4.css" />
+</head>
+
+<body>
+<table border="1" style="margin-left: auto; margin-right: auto;">
+
+<caption><b><h1>Engine Vrage</b></h1></caption>
+    
+<tr> <td>Vyvinutý společností</td> 		<td>Keen Software House</td> </tr>
+<tr> <td>Zakladatel</td>    					<td>Marek Rosa</td> </tr>
+<tr> <td>Rok založení</td> 						<td>V roce 2010</td> </tr>
+<tr> <td>Hry</td>    									<td>Miner Wars Arena, Space Engineers</td> </tr>
+<tr> <td>Zkratka Vrage</td>    				<td>Volumetric rage nebo Voxel rage</td> </tr>
+<tr> <td>Vrage umožnil</td>    				<td>Vytvářet hry, které do hry využívají prvky vědy</td> </tr>
+<tr> <td>Vrage engine</td>    				<td>Stále funguje</td> </tr>
+<tr> <td>Sídlo společnosti</td>    		<td>Praha</td> </tr>
+</table>
+  
+</body>
+</html>
